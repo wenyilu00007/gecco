@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gecco-htmlunit-master/pom.xml" />
+        <option value="$PROJECT_DIR$/gecco-master/pom.xml" />
+        <option value="$PROJECT_DIR$/gecco-redis-master/pom.xml" />
+        <option value="$PROJECT_DIR$/gecco-spring-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
